@@ -10,3 +10,14 @@ I have added 6 sizes of headers from h1 to h6.
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Adding some code blocks
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
